@@ -1,6 +1,9 @@
 CAS: Breast Cancer Diagnosis Framework Based on Lesion Region Recognition in Ultrasound Images.
+
+
 Requirements
 Pycharm.Keras and TensorFlow
+
 Hardware environment 
 11th Gen Intel(R) Core(TM) i7-11700K CPU @ 3.60GHz and an NVIDIA GeForce RTX 3060 graphics card, running on a 64-bit Windows operating system.
 
